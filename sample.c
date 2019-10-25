@@ -2,6 +2,7 @@
 int main()
 {
 printf("Hello world");
-printf("Segunda Linea")
+printf("Segunda Linea");
+printf("Tercera Linea");
 return 0;
 }
